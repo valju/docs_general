@@ -1,5 +1,5 @@
 # docs_general
-Mother of all Repo
+Mother of all Repos
 
 TEMP image folder has some images that are related to some cases or future learning materials.
 
